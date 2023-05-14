@@ -1,3 +1,6 @@
+#does not allow .exe file to be pushed on git :)
+
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
